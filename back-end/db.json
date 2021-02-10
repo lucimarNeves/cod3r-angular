@@ -24,6 +24,26 @@
       "name": "Geladeira",
       "price": "2300.99",
       "id": 5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "veio do formulario",
+      "price": "09,99",
+      "id": 7
+    },
+    {
+      "name": "fogão",
+      "price": "1900,00",
+      "id": 8
+    },
+    {
+      "name": "forno de microondas",
+      "price": "450,00",
+      "id": 9
     }
   ]
 }
