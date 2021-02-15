@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Sansung S20+",
-      "price": 5000.89
+      "name": "Sansung S20 + Ultra",
+      "price": "7520.89"
     },
     {
       "name": "Geladeira",
@@ -21,29 +21,9 @@
       "id": 4
     },
     {
-      "name": "Geladeira",
-      "price": "2300.99",
+      "name": "lápis",
+      "price": "2",
       "id": 5
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 6
-    },
-    {
-      "name": "veio do formulario",
-      "price": "09,99",
-      "id": 7
-    },
-    {
-      "name": "fogão",
-      "price": "1900,00",
-      "id": 8
-    },
-    {
-      "name": "forno de microondas",
-      "price": "450,00",
-      "id": 9
     }
   ]
 }

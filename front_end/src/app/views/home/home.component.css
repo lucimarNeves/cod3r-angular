@@ -7,3 +7,12 @@
 .home .subtitle {
     font-size: 1.1em;
 }
+
+.home .imgHome {
+    width: 55%;
+    height: 650px;
+    margin-left: 350px;
+    margin-top: auto;
+    margin-top: 20px;
+    ;
+}
